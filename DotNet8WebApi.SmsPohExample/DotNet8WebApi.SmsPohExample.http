@@ -1,0 +1,6 @@
+@DotNet8WebApi.SmsPohExample_HostAddress = http://localhost:5137
+
+GET {{DotNet8WebApi.SmsPohExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
